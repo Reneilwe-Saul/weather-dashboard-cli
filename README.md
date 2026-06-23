@@ -29,7 +29,7 @@ the terminal — no browser needed.
 ## 🚀 How to Run
 
 1. Clone the repo:
-   git clone https://github.com/YOUR_USERNAME/weather-dashboard-cli
+   git clone https://github.com/Reneilwe25/weather-dashboard-cli
 
 2. Install the required library:
    pip install requests

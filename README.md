@@ -1,4 +1,4 @@
-# Weather Dashboard CLI 🌤
+# Weather Dashboard CLI 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![API](https://img.shields.io/badge/OpenWeather_API-orange?style=flat)
@@ -9,7 +9,7 @@ for any city in the world using the OpenWeather API.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Weather information is often buried in apps and websites. 
 This tool gives instant, clean weather data directly in 
@@ -17,16 +17,16 @@ the terminal — no browser needed.
 
 ---
 
-## 🔍 What It Shows
+## What It Shows
 
-- 🌡 Temperature (°C)
-- ☁️ Weather condition
-- 💧 Humidity (%)
-- 💨 Wind speed (km/h)
+- Temperature (°C)
+- Weather condition
+- Humidity (%)
+- Wind speed (km/h)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
    git clone https://github.com/Reneilwe-Saul/weather-dashboard-cli
@@ -41,7 +41,7 @@ the terminal — no browser needed.
 
 ---
 
-## 💻 Example Output
+## Example Output
 === Weather Dashboard CLI ===
 
 Enter city (or 'quit' to exit): Johannesburg
@@ -55,7 +55,7 @@ Wind Speed  : 12.7 km/h
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Python 3
 - Requests library
